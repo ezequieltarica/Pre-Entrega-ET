@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@100;400;500&display=swap');
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ffffff;
+}
+
+.hero{
+    background-image: url(img/background_espeis2.png);
+    height: 700px;
+    font-weight: bolder;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 30px;
+}
+
+.films{
+padding: 10px;
+margin: 75px;
+}
+
+.cortos{
+    padding: 80px;
+}
+
+.card2{
+    background-color: #292e30;
+    padding: 20px;
+    color: #ffffff;
+    border-radius: 7px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.navbar{
+    margin: auto;
+    background-color: aquamarine;
+}
+
+
+div.row{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}   
+
+footer{
+    background-color: #292e30;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    text-transform: capitalize;
+    padding: 20px;
+}
+footer p{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: rgb(255, 255, 255);
+}
+footer i{
+    font-size: 25px;
+    margin-bottom: 10px;
+    text-align: center;
+    letter-spacing: 40px;
+    color: rgb(255, 255, 255);
+
+}
